@@ -2,11 +2,10 @@
 
 This repository contains code I used to explore fractal structure in neural network training hyperparameter landscapes.
 
-- For the code itself: [open this colab]
-- For images, videos, and raw data I generated for my writeups: [mount this Google Drive folder](https://drive.google.com/drive/folders/1-LKmtV1-kP-VJClHUuPlzRb2WPQMq4mx)
-- For more details, see [the blog post] and [the short paper]
+- To make your own fractals, or reproduce my images and videos: [open this colab](https://colab.research.google.com/github/Sohl-Dickstein/fractal/blob/main/The_boundary_of_neural_network_trainability_is_fractal.ipynb)
+- To learn more, see [the blog post] and [the short paper]
 
-As a brief summary, the paper abstract follows:
+As a brief summary, the paper abstract:
 
 *Some fractals -- for instance 
 those associated with
