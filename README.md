@@ -2,7 +2,7 @@
 
 This repository contains code I used to explore fractal structure in neural network training hyperparameter landscapes.
 
-- To make your own fractals, or reproduce my images and videos: [open this colab](https://colab.research.google.com/github/Sohl-Dickstein/fractal/blob/main/the_boundary_of_neural_network_trainability_is_fractal.ipynb)
+- To make your own fractals, or reproduce my images and videos: [open this colab](https://colab.research.google.com/github/Sohl-Dickstein/fractal/blob/main/the_boundary_of_neural_network_trainability_is_fractal.ipynb) (or [this lightweight colab](https://colab.research.google.com/github/Sohl-Dickstein/fractal/blob/main/Mandelbrot_set_visualization.ipynb) I used to generate a Mandelbrot set image)
 - To learn more, see [the blog post] and [the short paper](https://arxiv.org/abs/2402.06184)
 
 As a brief summary, here is the paper abstract:
