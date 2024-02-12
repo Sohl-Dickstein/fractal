@@ -18,4 +18,6 @@ Motivated by these similarities, we experimentally examine the boundary between 
 We find that this boundary is fractal 
 over more than ten decades of scale in all tested configurations.*
 
+And here are some example images, shown parts of the fractals that result from neural network training, in a variety of experimental conditions:
+
 ![Examples of fractals resulting from neural network training in a variety of experimental configurations](fractal_tiles_midres.png)
