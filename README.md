@@ -17,3 +17,5 @@ and can be extremely sensitive to small changes in hyperparameters.
 Motivated by these similarities, we experimentally examine the boundary between neural network hyperparameters that lead to stable and divergent training. 
 We find that this boundary is fractal 
 over more than ten decades of scale in all tested configurations.*
+
+![Examples of fractals resulting from neural network training in a variety of experimental configurations](fractal_tiles_midres.png)
